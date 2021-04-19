@@ -4,6 +4,6 @@
 
  Secrets=***REMOVED***aaaa
 
-password=***REMOVED***
+password=
 
  awskey = sjgsfhghsfljhgjaaaaalshjlghljsfhgjlhfslghlfhglhsflghldssgkhlghljshgljshflgjhsfghljsfhgjlsfhjlghfsjlghjlshgljshfjlghasfjlgh
